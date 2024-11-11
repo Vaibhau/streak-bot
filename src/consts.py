@@ -1,5 +1,6 @@
-from enum import Enum
 import os
+from enum import enum
+enum()
 
 from dotenv import find_dotenv, load_dotenv
 
